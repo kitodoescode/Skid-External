@@ -5,11 +5,7 @@
 [![Discord](https://img.shields.io/badge/Discord-Invite-gray?logo=discord&labelColor=%235865F2&logoColor=white)](https://discord.gg/skidding) 
 [![Github](https://img.shields.io/badge/Github-SkidExternal-gray?logo=github&labelColor=%232f2f2f&logoColor=white)](https://github.com/kitodoescode/SkidExternal)  
 This is an external made by **@kitodoescode**.  
-This is a rewritten version of my "SkidExternal". 
-
----
-
-## Info
+This is a rewritten version of my "SkidExternal".  
 
 - Completely Undetected
 - Kernel-Level
