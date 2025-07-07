@@ -22,15 +22,15 @@ This is a rewritten version of my "SkidExternal".
 
 ## Driver
 
-**payson-ioctl-cheat-driver - [paysonism](https://github.com/paysonism/)**  
-[![Driver](https://img.shields.io/badge/Github-payson--ioctl--cheat--driver-gray?logo=github&labelColor=%232f2f2f)](https://github.com/paysonism/payson-ioctl-cheat-driver/)
+[![Driver](https://img.shields.io/badge/Github-payson--ioctl--cheat--driver-gray?logo=github&labelColor=%232f2f2f)](https://github.com/paysonism/payson-ioctl-cheat-driver/)  
+**payson-ioctl-cheat-driver - [paysonism](https://github.com/paysonism/)**
 
 ---
 
 ## Mapper
 
-**kdmapper - [TheCruZ](https://github.com/TheCruZ/)**  
-[![Mapper](https://img.shields.io/badge/Github-kdmapper-gray?logo=github&labelColor=%232f2f2f)](https://github.com/TheCruZ/kdmapper)
+[![Mapper](https://img.shields.io/badge/Github-kdmapper-gray?logo=github&labelColor=%232f2f2f)](https://github.com/TheCruZ/kdmapper)  
+**kdmapper - [TheCruZ](https://github.com/TheCruZ/)**
 
 ---
 
