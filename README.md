@@ -14,8 +14,7 @@ This is a rewritten version of my "SkidExternal".
 - Completely Undetected
 - Kernel-Level
 - Walkspeed, JumpPower & Health Changer.
-- External ImGui Overlay
-- Updated for ``version-78712d8739f34cb9``
+- Version - ``version-78712d8739f34cb9``
 
 ---
 
